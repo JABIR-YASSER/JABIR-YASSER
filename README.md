@@ -1,55 +1,61 @@
-<h1 align="center">Hi 👋 I'm Yasser Jabir</h1>
-
 <p align="center">
-💻 Software Developer Student <br>
-🚀 Passionate about Web Development  <br>
-📍 Morocco
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=700&lines=Yasser+Jabir;Full-Stack+Developer;Laravel+%7C+React+%7C+Next.js;Building+Modern+Web+Applications" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+# 👋 Yasser Jabir
 
-* 🎓 Computer Science student
-* 🔭 Currently working with **Laravel, PHP, MySQL**
-* 🌱 Learning **Advanced Web Development**
-* 🔐 Interested in **Cybersecurity & Malware analysis**
-* ⚡ Love building real projects
+💻 Full-Stack Developer
+📍 Mohammedia, Morocco
+
+Passionate about building scalable web applications and continuously learning new technologies across the full development stack.
 
 ---
 
-## 🚀 Tech Stack
+## 🧰 Tech Stack
 
-### Languages
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3\&logoColor=white)
-
-### Frameworks & Tools
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux\&logoColor=black)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=php,laravel,js,react,nextjs,nodejs,python,c,mysql,mongodb,git,github,vscode" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Yasser's GitHub stats](https://github-readme-stats.vercel.app/api?username=JABIR-YASSER\&show_icons=true\&theme=tokyonight)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JABIR-YASSER\&layout=compact\&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JABIR-YASSER&show_icons=true&theme=tokyonight&hide_border=true"/>
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JABIR-YASSER&layout=compact&theme=tokyonight&hide_border=true"/>
 
-## 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=JABIR-YASSER\&theme=darkhub)
+</p>
 
 ---
 
-## 📫 Connect with me
+## 👀 Profile Visitors
 
-* GitHub: https://github.com/JABIR-YASSER
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=JABIR-YASSER&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/JABIR-YASSER/JABIR-YASSER/output/github-contribution-grid-snake.svg">
+</p>
+
+---
+
+## 📫 Contact
+
+📧 Email: [jabiryasser2602@gmail.com](mailto:jabiryasser2602@gmail.com)
+🔗 GitHub: https://github.com/JABIR-YASSER
+
+---
+
+<p align="center">
+⭐ Always learning and building new things.
+</p>
