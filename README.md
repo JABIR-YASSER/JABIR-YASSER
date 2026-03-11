@@ -2,7 +2,7 @@
 
 <p align="center">
 💻 Software Developer Student <br>
-🚀 Passionate about Web Development & Cybersecurity <br>
+🚀 Passionate about Web Development  <br>
 📍 Morocco
 </p>
 
