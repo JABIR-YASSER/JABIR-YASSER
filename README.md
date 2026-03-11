@@ -53,15 +53,16 @@ Passionate about building scalable web applications and continuously learning ne
 
 <p align="center">
 
-<a href="[https://www.linkedin.com/in/jabir-yasser](https://www.linkedin.com/in/jabir-yasser-73a0b5228?utm_source=share_via&utm_content=profile&utm_medium=member_ios)">
+<a href="https://www.linkedin.com/in/jabir-yasser-73a0b5228" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Yasser%20Jabir-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://github.com/JABIR-YASSER">
+<a href="https://github.com/JABIR-YASSER" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
+
 
 ---
 
