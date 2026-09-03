@@ -31,6 +31,7 @@ I am a Computer Engineering student (Licence) specializing in full-stack archite
 *   **GRH-System:** A comprehensive human resources management solution featuring automated payroll tracking and data-driven client dashboards.
 *   **Enterprise Car Rental Platform:** A full-stack web application engineered with React, Node.js, and MySQL to streamline booking and inventory management.
 *   **Web-Based Graphic Editor:** A scalable media application (Canva clone) emphasizing complex media integrations and client-side state management.
+
 ---
 
 ## 📊 GitHub Analytics
@@ -38,6 +39,10 @@ I am a Computer Engineering student (Licence) specializing in full-stack archite
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=JABIR-YASSER&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JABIR-YASSER&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JABIR-YASSER&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
