@@ -37,11 +37,6 @@ I am a Computer Engineering student (Licence) specializing in full-stack archite
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JABIR-YASSER&show_icons=true&theme=tokyonight&hide_border=true&v=1" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JABIR-YASSER&layout=compact&theme=tokyonight&hide_border=true&v=1" />
-</p>
-
-<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JABIR-YASSER&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
