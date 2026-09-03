@@ -1,25 +1,24 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=700&lines=Yasser+Jabir;Full-Stack+Software+Developer;Laravel+%7C+React+%7C+Next.js;Building+Scalable+Web+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=700&lines=Yasser+Jabir;Computer+Engineering+Student;Full-Stack+Developer;Laravel+%7C+React+%7C+Next.js" />
 </p>
 
 ---
 
 # 👋 Yasser Jabir
 
-**Digital Development Intern & Full-Stack Developer | Mohammedia, Morocco**
+**Computer Engineering Student & Full-Stack Developer | Mohammedia, Morocco**
 
-I am a second-year Digital Development student specializing in full-stack architecture. I focus on designing scalable systems, developing robust APIs, and engineering intuitive user interfaces. I am passionate about solving complex technical challenges and continuously expanding my expertise across modern development frameworks.
+I am a Computer Engineering student (Licence) specializing in full-stack architecture and enterprise software. I focus on designing scalable systems, developing robust APIs, and engineering intuitive user interfaces. I am passionate about solving complex technical challenges and continuously expanding my expertise across modern development frameworks.
 
-- 🌱 **Current Focus:** Advanced implementations of Laravel, React/Inertia.js, TypeScript, and enterprise system architecture.
+- 🌱 **Current Focus:** Pursuing my degree in Computer Engineering while advancing my expertise in Laravel, React/Inertia.js, Java, and system architecture.
 - 🔭 **Expertise:** End-to-end application development, relational database design, and automated administrative solutions.
-- 🤝 **Open to:** Collaborations on open-source projects, internship opportunities, and full-stack development roles.
+- 🤝 **Open to:** Software engineering internships, open-source collaborations, and full-stack development roles.
 
 ---
 
 ## 🧰 Technical Arsenal
 
 <p align="center">
-<!-- Added Java to your skill icons -->
 <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,nextjs,nodejs,express,python,java,c,mysql,mongodb,git,github,vscode" />
 </p>
 
