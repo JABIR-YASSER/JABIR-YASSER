@@ -50,13 +50,6 @@ I am a Computer Engineering student (Licence) specializing in full-stack archite
 
 ---
 
-## 👀 Profile Visitors
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=JABIR-YASSER&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
 
 ## 📫 Connect With Me
 
