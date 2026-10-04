@@ -38,9 +38,7 @@ I am a Computer Engineering student (Licence) specializing in full-stack archite
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JABIR-YASSER&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&rank_icon=github" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JABIR-YASSER&layout=compact&langs_count=8&hide_border=true" height="180"/>
+<img src="https://streak-stats.demolab.com?user=JABIR-YASSER&hide_border=true" />
 
 </div>
 
